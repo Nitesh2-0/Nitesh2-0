@@ -1,7 +1,7 @@
 [![MasterHead](https://fiverr-res.cloudinary.com/videos/so_1.611494,t_main1,q_auto,f_auto/oxl6lcxqitcu3l6udq2v/build-modern-mern-stack-web-applications-using-react-js-node-js-tailwind-css.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
 <h3 align="center">𝖯𝖺𝗌𝗌𝗂𝗈𝗇𝖺𝗍𝖾 𝖨𝗇𝖽𝗂𝖺𝗇 𝖿𝗋𝗈𝗇𝗍𝖾𝗇𝖽 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 𝖾𝗑𝖼𝖾𝗅𝗌 𝗂𝗇 𝗉𝗋𝗈𝖻𝗅𝖾𝗆-𝗌𝗈𝗅𝗏𝗂𝗇𝗀</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width ="400"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width ="800"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkumaryadav16&label=Profile%20views&color=0e75b6&style=flat" alt="niteshkumaryadav16" /> </p>
 
