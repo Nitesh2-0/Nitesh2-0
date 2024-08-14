@@ -32,23 +32,24 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
+
 <h3 align="center">Skills Proficiency</h3>
+<hr align="center" style="border: 2px solid yellow; border-radius: 10px; width: 95%; margin: auto;" />
+<p align="center" style="width:100%; display: inline-block; margin:1%">
+  <img src="https://quickchart.io/chart?c=%7Btype:'doughnut'%2Cdata:%7Blabels:%5B'Node.js'%2C'JavaScript'%2C'React.js'%2C'MongoDB'%2C'CSS'%2C'HTML'%5D%2Cdatasets:%5B%7Blabel:'Proficiency'%2Cdata:%5B80%2C85%2C85%2C75%2C90%2C90%5D%2CbackgroundColor:%5B'%23007bff'%2C'%23f0db4f'%2C'%2361dafb'%2C'%234db33d'%2C'%23ff6347'%2C'%23ffd700'%5D%2CborderWidth:1%7D%5D%7D%2Coptions:%7Bresponsive:true%2Cplugins:%7Blegend:%7Bposition:'top'%7D%2Ctitle:%7Bdisplay:true%2Ctext:'Skills%20Proficiency'%7D%7D%7D%7D" alt="Skill Proficiency Chart" width="400" />
+
+<img src="https://quickchart.io/chart?c=%7Btype:'bar'%2Cdata:%7Blabels:%5B'Node.js'%2C'JavaScript'%2C'React.js'%2C'MongoDB'%2C'CSS'%2C'HTML'%5D%2Cdatasets:%5B%7Blabel:'Skill%20Level'%2Cdata:%5B80%2C85%2C85%2C75%2C90%2C90%5D%2CbackgroundColor:%5B'%23007bff'%2C'%23f0db4f'%2C'%2361dafb'%2C'%234db33d'%2C'%23ff6347'%2C'%23ffd700'%5D%2CborderColor:%5B'%23007bff'%2C'%23f0db4f'%2C'%2361dafb'%2C'%234db33d'%2C'%23ff6347'%2C'%23ffd700'%5D%2CborderWidth:1%7D%5D%7D%2Coptions:%7Bscales:%7By:%7BbeginAtZero:true%7D%7D%7D%7D" alt="Skills Graph" width="400" />
+
+
+</p>
+
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitesh2-0&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 200px; width: auto;"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitesh2-0&show_icons=true&locale=en&layout=compact" alt="niteshkumaryadav16" height="200" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitesh2-0&show_icons=true&locale=en" alt="niteshkumaryadav16" /></p>
 </p>
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nitesh2-0&show_icons=true&locale=en" alt="GitHub Stats" style="height: 200px; width: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh2-0&theme=dark" alt="GitHub Streak" />
 </p>
-
-<p style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://quickchart.io/chart?c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A['Node.js'%2C'JavaScript'%2C'React.js'%2C'MongoDB']%2Cdatasets%3A[%7Blabel%3A'Proficiency'%2Cdata%3A[80%2C90%2C85%2C75]%2CbackgroundColor%3A['%23007bff'%2C'%23f0db4f'%2C'%2361dafb'%2C'%234db33d']%2CborderWidth%3A1%7D]%7D%2Coptions%3A%7Bresponsive%3Atrue%2Cplugins%3A%7Blegend%3A%7Bposition%3A'top'%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A'Skills%20Proficiency'%7D%7D%7D%7D" alt="Skill Proficiency Chart" width="500"  height="300" />
- <img src="https://quickchart.io/chart?c=%7Btype%3A'bar'%2Cdata%3A%7Blabels%3A%5B'Node.js'%2C'JavaScript'%2C'React.js'%2C'MongoDB'%5D%2Cdatasets%3A%5B%7Blabel%3A'Skill%20Level'%2Cdata%3A%5B80%2C90%2C85%2C75%5D%2CbackgroundColor%3A'rgba(75%2C192%2C192%2C0.2)'%2CborderColor%3A'rgba(75%2C192%2C192%2C1)'%2CborderWidth%3A1%7D%5D%7D%2Coptions%3A%7Bscales%3A%7By%3A%7BbeginAtZero%3Atrue%7D%7D%7D%7D" alt="Skills Graph" width="300" height="300" />
-</p>
-
-<h3 align="center">Contributions</h3>
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh2-0&theme=dark" alt="GitHub Streak" style="height: 300px; width: auto;" />
-</p>
-
-
 
