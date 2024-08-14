@@ -32,9 +32,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">Skill Proficiency</h3>
+<h3 align="center">Skills Proficiency</h3>
 <p style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitesh2-0&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 200px;  width="300" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitesh2-0&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 200px;  width="300" />
    <img src="https://github-readme-stats.vercel.app/api?username=Nitesh2-0&show_icons=true&locale=en" alt="GitHub Stats" style="height: 200px;  width="200" />
 </p>
 
