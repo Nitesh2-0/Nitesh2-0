@@ -44,8 +44,8 @@
 </p>
 
 <p align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitesh2-0&show_icons=true&locale=en&layout=compact" alt="niteshkumaryadav16" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh2-0&theme=dark" alt="GitHub Streak" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitesh2-0&show_icons=true&locale=en&layout=compact" alt="niteshkumaryadav16" width="40%" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh2-0&theme=dark" alt="GitHub Streak" width="50%" />
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitesh2-0&show_icons=true&locale=en" alt="niteshkumaryadav16" /></p>
 
