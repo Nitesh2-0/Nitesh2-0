@@ -33,9 +33,11 @@
 </p>
 
 <h3 align="center">Skills Proficiency</h3>
-<p style="display: flex; justify-content: space-between; align-items: center;">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitesh2-0&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 200px;  width="200" />
-   <img src="https://github-readme-stats.vercel.app/api?username=Nitesh2-0&show_icons=true&locale=en" alt="GitHub Stats" style="height: 200px;  width="200" />
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitesh2-0&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 300px; width: auto;"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nitesh2-0&show_icons=true&locale=en" alt="GitHub Stats" style="height: 300px; width: auto;" />
 </p>
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
