@@ -44,12 +44,8 @@
 </p>
 
 <p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitesh2-0&show_icons=true&locale=en&layout=compact" alt="niteshkumaryadav16" height="200" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitesh2-0&show_icons=true&locale=en" alt="niteshkumaryadav16" /></p>
-</p>
-
-<p align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitesh2-0&show_icons=true&locale=en&layout=compact" alt="niteshkumaryadav16" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh2-0&theme=dark" alt="GitHub Streak" />
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitesh2-0&show_icons=true&locale=en" alt="niteshkumaryadav16" /></p>
 
