@@ -39,7 +39,7 @@
 </p>
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://quickchart.io/chart?c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A['Node.js'%2C'JavaScript'%2C'React.js'%2C'MongoDB']%2Cdatasets%3A[%7Blabel%3A'Proficiency'%2Cdata%3A[80%2C90%2C85%2C75]%2CbackgroundColor%3A['%23007bff'%2C'%23f0db4f'%2C'%2361dafb'%2C'%234db33d']%2CborderWidth%3A1%7D]%7D%2Coptions%3A%7Bresponsive%3Atrue%2Cplugins%3A%7Blegend%3A%7Bposition%3A'top'%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A'Skills%20Proficiency'%7D%7D%7D%7D" alt="Skill Proficiency Chart" width="300"  height="300" />
+  <img src="https://quickchart.io/chart?c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A['Node.js'%2C'JavaScript'%2C'React.js'%2C'MongoDB']%2Cdatasets%3A[%7Blabel%3A'Proficiency'%2Cdata%3A[80%2C90%2C85%2C75]%2CbackgroundColor%3A['%23007bff'%2C'%23f0db4f'%2C'%2361dafb'%2C'%234db33d']%2CborderWidth%3A1%7D]%7D%2Coptions%3A%7Bresponsive%3Atrue%2Cplugins%3A%7Blegend%3A%7Bposition%3A'top'%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A'Skills%20Proficiency'%7D%7D%7D%7D" alt="Skill Proficiency Chart" width="500"  height="300" />
  <img src="https://quickchart.io/chart?c=%7Btype%3A'bar'%2Cdata%3A%7Blabels%3A%5B'Node.js'%2C'JavaScript'%2C'React.js'%2C'MongoDB'%5D%2Cdatasets%3A%5B%7Blabel%3A'Skill%20Level'%2Cdata%3A%5B80%2C90%2C85%2C75%5D%2CbackgroundColor%3A'rgba(75%2C192%2C192%2C0.2)'%2CborderColor%3A'rgba(75%2C192%2C192%2C1)'%2CborderWidth%3A1%7D%5D%7D%2Coptions%3A%7Bscales%3A%7By%3A%7BbeginAtZero%3Atrue%7D%7D%7D%7D" alt="Skills Graph" width="300" height="300" />
 </p>
 
