@@ -1,4 +1,4 @@
-![Banner](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress&format&rect=0,0,1999,1124&w=3840&fit=max)
+![Banner](https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg)
 
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
 <h3 align="center">MERN Stack Developer | Full-Stack Enthusiast | India 🇮🇳</h3>
