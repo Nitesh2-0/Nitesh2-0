@@ -1,108 +1,84 @@
-![Banner](https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg)
-
-<h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
-<h3 align="center">MERN Stack Developer | Full-Stack Enthusiast | India 🇮🇳</h3>
+<h1 align="center">👋 Hey, I'm Nitesh Kumar</h1>
+<p align="center">💻 MERN Stack Developer | Backend Enthusiast | Problem Solver</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/niteshkumaryadav16" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:niteshkumar61725@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+I’m passionate about building scalable full-stack web applications using modern web technologies.<br/>
+Focused on writing clean, optimized code and creating seamless user experiences.
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 💼 Experience
+<div align="center">
 
-- 💻 Full Stack Developer focused on building clean & scalable web apps.
-- 🚀 Currently learning **React Router v7** as part of my full-stack architecture.
-- 🌱 I’m also diving into **Data Structures & Algorithms (DSA)** to sharpen my problem-solving skills.
-- 📫 Feel free to email me anytime: `niteshkumar61725@gmail.com`
+| Role | Organization | Duration | Description |
+|------|---------------|-----------|-------------|
+| 💼 **Full Stack Developer** | **Katyayani Organics** | Jan 2025 – Present | Building scalable modules using MERN stack |
+| 🌐 **Frontend Developer Intern** | **Katyayani Organics** | Sep 2024 – Dec 2024 | Worked with Remix, React Router 7, and data dashboards |
+| 🧩 **Web Development Intern** | **TechnoHacks EduTech** | Aug 2023 – Sep 2023 | Developed responsive UIs using HTML, CSS, JS |
 
----
-
-### 🧠 Currently Learning
-
-- ⚛️ **React Router v7** (used in full-stack mode for better routing).
-- 🧩 **Data Structures & Algorithms (DSA)** for enhancing problem-solving abilities.
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🎓 Education
+<div align="center">
 
-**Languages & Core:**  
-`C++`, `Java`, `JavaScript`, `HTML`, `CSS`, `SQL`
+| Degree | Institution | Year | Grade |
+|---------|--------------|-------|--------|
+| 🎓 **B.Tech – Computer Science** | Rajiv Gandhi Proudyogiki Vishwavidyalaya | 2021 – 2025 | 8.8 CGPA |
+| 🧪 **12th (Science)** | Bihar School Examination Board | 2019 – 2021 | 71 % |
 
-**Frontend:**  
-`React.js`, `Tailwind CSS`
-
-**Backend:**  
-`Node.js`, `Express.js`, `MongoDB`, `MySQL`
-
-**Full Stack Frameworks:**  
-`Remix`, `React Router v7`
-
-**Tools:**  
-`Git`, `GitHub`, `VS Code`, `IntelliJ IDEA`
+</div>
 
 ---
 
-### 📊 Skill Proficiency
+### 🧩 Certifications
+<div align="center">
 
+[![React JS](https://img.shields.io/badge/React%20JS-Sheryians-green?style=for-the-badge&logo=react&logoColor=white)]() [![Front-End Web Development](https://img.shields.io/badge/Front--End%20Web%20Development-Sheryians-orange?style=for-the-badge&logo=html5&logoColor=white)]() [![HTML & CSS](https://img.shields.io/badge/HTML%20&%20CSS-Nasscom-purple?style=for-the-badge&logo=css3&logoColor=white)]() [![Back-End Web Development](https://img.shields.io/badge/Back--End%20Web%20Development-Sheryians-blue?style=for-the-badge&logo=node.js&logoColor=white)]() [![SQL Basic](https://img.shields.io/badge/SQL%20(Basic)-HackerRank-lightgrey?style=for-the-badge&logo=mysql&logoColor=white)]() [![JavaScript Basic](https://img.shields.io/badge/JavaScript%20(Basic)-HackerRank-yellow?style=for-the-badge&logo=javascript&logoColor=black)]() [![Java](https://img.shields.io/badge/Java-CodeChef-red?style=for-the-badge&logo=java&logoColor=white)]() [![Problem Solving](https://img.shields.io/badge/Problem%20Solving-HackerRank-blue?style=for-the-badge&logo=hackerrank&logoColor=white)]()
+
+</div>
+
+
+---
+
+### ⚙️ Tech Stack
+<div align="center">
+
+| **Frontend** | **Backend** | **Database** | **Languages** | **Full Stack Frameworks** | **Others / Tools** |
+|---------------|--------------|---------------|----------------|----------------------------|---------------------|
+| React.js ⚛️ | Node.js 🟢 | MongoDB 🍃 | JavaScript ⚡ | Remix 🌀 | Git 🧰 |
+| HTML5 🧱 | Express.js 🚀 | SQL 🧮 | C++ 💡 | Next.js 🧭 *(Learning)* | GitHub 🧑‍💻 |
+| CSS 🎨 |  | IndexDB | Java ☕ | React Router v7 🔗 | Material-UI,Shadcn/ui 🎨 |
+| Tailwind CSS 🌈 |  |  Firebase | DSA (Basic) 🔢 |  | Docker 🐳 *(Learning)* |
+
+</div>
+
+
+---
+
+### 📊 GitHub Overview
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Node.js','JavaScript','React.js','MongoDB','CSS','HTML'],datasets:[{data:[80,85,85,75,90,90],backgroundColor:['%23007bff','%23f0db4f','%2361dafb','%234db33d','%23ff6347','%23ffd700']}]}}" alt="Skill Proficiency Chart" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh2-0&theme=transparent&hide_border=true" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh2-0&layout=compact&theme=transparent&hide_border=true" width="380"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
-
+### 🌱 Currently Exploring
 <p align="center">
-  <a href="https://linkedin.com/in/niteshkumaryadav16" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/nitesh1kumar1/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.codechef.com/users/niteshkumar617" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://www.hackerrank.com/niteshkumar61725" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://leetcode.com/niteshkumar61725/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/niteshkumar61725/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-5EAF50?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
+🧭 Learning <b>Next.js</b> to expand my full-stack expertise and build optimized, SEO-friendly web apps.
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
+### 📬 Connect With Me
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh2-0&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh2-0&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh2-0&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+<a href="mailto:niteshkumar61725@gmail.com"><img src="https://img.shields.io/badge/Email-niteshkumar61725%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/niteshkumaryadav16"><img src="https://img.shields.io/badge/LinkedIn-Nitesh%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-### 🚀 Let’s Collaborate!
-
-Have a cool idea? Want to build something awesome together?  
-Let’s connect on [LinkedIn](https://linkedin.com/in/niteshkumaryadav16) or email me at **niteshkumar61725@gmail.com**.
-
----
-
-_Thanks for visiting! Keep learning, keep building!_ 🚀
+<p align="center"><i>“Code with clarity, design with purpose.”</i></p>
