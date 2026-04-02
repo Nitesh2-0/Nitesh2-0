@@ -9,7 +9,7 @@
 | **Class** | Full Stack Developer |
 | **Sub-Class** | Backend Enthusiast / UI Sorcerer |
 | **Location** | Bhopal, India (Server: MP) |
-| **HP (Experience)** | 1.5+ Years in Industry |
+| **Katyayani (Experience)** | 1.5+ Years in Industry |
 | **Special Ability** | AI-Augmented Coding (Copilot/ChatGPT) |
 
 ---
